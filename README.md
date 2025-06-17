@@ -71,4 +71,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@aditya-6655kh](https://github.com/aditya-6655kh)
-- Website [your-website.com](https://your-website.com)
+- Website [blog-post](https://aditya-6655kh.github.io/minimal-blog-post/)
